@@ -43,7 +43,6 @@ val animeList = listOf(
             "Incredible animation and football sequences..."
         )
     ),
-    // Tambahan instance lainnya...
     Anime(
         title = "Bleach: Thousand-Year Blood War - The Conflict",
         genre = "Action, Adventure, Shounen",
