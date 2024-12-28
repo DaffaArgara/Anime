@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Anime Review</string>
+    <string name="anime_image_desc">Anime Image</string>
+    <string name="top_app_bar_title">Anime Review</string>
+    <string name="anime_title">Judul Anime</string>
+    <string name="anime_genre">Genre</string>
+    <string name="anime_rating">Rating</string>
+    <string name="review_placeholder">Tulis ulasan Anda…</string>
+    <string name="submit_review">Kirim Ulasan</string>
+    <string name="anime_prologue">Prolog</string>
+</resources>
